@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/climateclara.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "bsky.app/profile/climateclara.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,8 +66,8 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/clara-burgard-6b280415a/"
-  mastodon         : "https://mastodon.green/@climate_clara"
+  linkedin         : # Username
+  mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
@@ -84,11 +84,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  paper:
+  papers:
     title: 'Peer-reviewed scientific publications'
-  thesis:
+  theses:
     title: 'Theses'
-  other publication:
+  other:
     title: 'Other publications'
 
 # Site Settings
@@ -221,16 +221,16 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  cv:
-    output: true
-    permalink: /:collection/:path/
-  research:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  science outreach:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
