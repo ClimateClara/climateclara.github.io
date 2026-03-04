@@ -10,6 +10,7 @@ _As a complement to scientific research, I am interested in developing new ways 
 In the media
 ------------
 
+- Podcast Konvergenzzone: [Wie kommt man nach Spitzbergen?](https://open.spotify.com/episode/6hRhKxjrNPrgg9vHhwBiEP?si=457c8f7ed3ce4482) 
 - Interview for the [IPSL News](https://open.spotify.com/show/4TWj2uXMHzaNr1ZCzlHQki) podcast: "[Montée des eaux: comment modéliser la fonte des glaciers](https://open.spotify.com/episode/0sa6tkccadv8NrsChCYggh?si=e27a9ac4912d44b7&nd=1&dlsi=e38db5335e9745fc)"
 - Presentation on recommendations on public research and memory policy as part of [Generation Europe](https://www.ofaj.org/programmes-formations/generation-europe#1) at a [colloquium of the French-German parliament at the Assemblée Nationale](https://www.assemblee-nationale.fr/dyn/16/organes/europe-international/apfa/actualites/colloque-etat-des-lieux-de-la-cooperation-franco-allemande-le-18-mars-2024-a-l-assemblee-nationale)
 
