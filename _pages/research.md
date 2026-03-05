@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="../images/research_banner.jpg" alt="Banner" width="100%">
+
 Research interests
 ------------------
 

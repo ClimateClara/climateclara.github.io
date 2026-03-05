@@ -5,7 +5,11 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+#header:
+#  image: main_banner.jpg
 ---
+
+<img src="images/main_banner.jpg" alt="Banner" width="100%">
 
 Hi!
 

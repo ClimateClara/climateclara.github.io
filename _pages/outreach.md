@@ -5,6 +5,9 @@ permalink: /outreach/
 author_profile: true
 ---
 
+<img src="../images/outreach_banner.jpg" alt="Banner" width="100%">
+
+
 _As a complement to scientific research, I am interested in developing new ways to communicate science to peers and a larger audience._
 
 In the media
@@ -19,7 +22,7 @@ Outreach initiatives
 
 **Climate scarf**
 
-Instructions to knit a climate stripes scarf can be found [here](https://claraburgard.weebly.com/uploads/1/3/1/1/131116144/instructions_climate_scarf.pdf).
+Instructions to knit a climate stripes scarf can be found [here](../files/instructions_climate_scarf.pdf).
 
 **Co-developer of the educational escape game "Save the glaciers" within [H2020 PROTECT](https://protect-slr.eu/educational-material/)**
 

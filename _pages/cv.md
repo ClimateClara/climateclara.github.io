@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<img src="../images/CV_banner.jpg" alt="Banner" width="100%">
+
 WORK & EDUCATION
 ----------------
  
