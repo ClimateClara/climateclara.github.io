@@ -48,7 +48,7 @@ You can find the complete paper in The Cryosphere [here](https://tc.copernicus.o
 ### Using the parameterisations and other advancements to explore the viability of Antarctic ice shelves
 
 In a collaboration within the "platformist" team at the IGE in Grenoble, we explored the limit of viability of Antarctic ice shelves, i.e. we estimated when it becomes almost impossible for the ice shelves to maintain their present-day shape. We show that for a scenario in which global warming remains largely below 2 °C, only 1 out of 64 ice shelves will become likely non-viable by 2300. For a scenario in which global warming reaches nearly 12 °C by 2300, many ice shelves become non-viable once global warming exceeds 4.5 °C, loss that is mainly due to an increase in ocean-induced melt. By 2150 and 2300, 26 and 38 ice shelves, respectively, become likely non-viable. Loss of ice-sheet regions restrained by these 38 ice shelves represent a sea-level rise potential of 10 m. Our estimates are latest bounds for reaching non-viability, and ice-shelf collapse could occur even earlier, in particular owing to the synergy with hydrofracturing.
-You can find the complete paper in Nature [here](https://www.nature.com/articles/s41586-025-09657-w).
+You can find the complete paper in Nature [here](https://www.nature.com/articles/s41586-025-09657-w) and the corresponding research briefing [here](https://doi.org/10.1038/d41586-025-03581-9).
 
 ARC3O - The Arctic Ocean Observation Operator
 ---------------------------------------------
