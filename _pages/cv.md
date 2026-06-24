@@ -69,6 +69,9 @@ _Lycée International des Pontonniers, Strasbourg, France_
 STIPENDS & AWARDS
 -----------------
 
+**2025**   
+[Outstanding Reviewer Award](https://www.agu.org/honors/announcement/outstanding-reviewers) for JGR Oceans
+
 **2023**     
 Participant in the German-French "Young Leaders" programme [Génération Europe/Generation Europa](https://www.dfjw.org/programme-aus-und-fortbildungen/generation-europa#1)  of the OFAJ/DFJW
 
@@ -116,9 +119,9 @@ SKILLS
 Mother tongue: German, French   
 Fluent: English   
 Good: Spanish  
-Basic: Italian, Norwegian, Greek, Russian
+Basic: Italian, Norwegian
 
 **Programming**   
 Expert: Python, CDO, UNIX    
 Advanced: LaTeX, Bash, Matlab   
-Beginner: Fortran95, Git   
+Medium: Fortran95, Git   

@@ -13,7 +13,7 @@ redirect_from:
 
 Hi!
 
-**I am a trained polar climate scientist. I am particularly interested in interactions between ice and ocean and between ice and climate in general. Also, I like to explore ways of communicating scientific research to peers and larger audiences.** 
+**I am a polar climate scientist particularly interested in interactions between ice and ocean and between ice and climate in general. I explore new methods to improve the representation of these interactions in large-scale models. Also, I like to explore ways of communicating scientific research to peers and larger audiences.** 
 
 I am currently working as a project scientist at the [Laboratoire d'Océanographie et du Climat (LOCEAN)](www.locean.ipsl.fr) in the NEMO group on ice-ocean interactions in Antarctica, concerning both ice shelves and sea ice. I am part of the [PEPR project TRACCS](https://pepr-traccs.fr/).
 

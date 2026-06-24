@@ -11,14 +11,15 @@ Research interests
 ------------------
 
 - Sea ice and ice shelves in the climate system
-- Polar meteorology and oceanography
-- Ice - ocean interactions in the climate system
+- Representing ice - ocean interactions in ice-sheet and climate models
 - Improvement of the synergetic use of (climate) models and remote sensing products
-- Neural networks as parameterisations
+- Physical and deep learning parameterisations
 
 Better including ice shelves in global climate models
 -----------------------------------------------------
 In my current work, I explore ways to better include the effect of melting ice shelves on the Southern Ocean and beyond in global climate simulations. I am working with the ocean model NEMO and the climate model IPSL-CM.
+
+_Work in progress, this section will be updated when publications come out..._
 
 Melting at the base of Antarctic ice shelves
 --------------------------------------------
@@ -84,6 +85,11 @@ Supervision
 
 Conferences and workshops
 -------------------------
+
+### 2026
+
+- **Groupe de réflexion CNRS - Défis théoriques pour les sciences du climat**, Paris, France, May 2026 - _Invited Presentation_
+- **LOCEAN lab seminar**, LOCEAN-IPSL, Paris, France, May 2026
 
 ### 2024
 
