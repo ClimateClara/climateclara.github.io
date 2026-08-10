@@ -14,7 +14,7 @@ author_profile: true
 In review
 ---------
 
-- Ockenden, H., **Burgard, C.**, Mathiot, P., Kittel, C., Gellens, A., Agosta, C., Jourdain, N.C. **(in review)**: "[DeepMelt-GL v1: A neural network emulator of ice-shelf melt rates for use in ocean models which partially resolve ice-shelf cavities](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6314/)", EGUsphere, doi: 10.5194/egusphere-2025-6314.
+- Ockenden, H., **Burgard, C.**, Mathiot, P., Kittel, C., Gellens, A., Agosta, C., Jourdain, N.C. **(accepted)**: "[DeepMelt-GL v1: A neural network emulator of ice-shelf melt rates for use in ocean models which partially resolve ice-shelf cavities](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6314/)", EGUsphere, doi: 10.5194/egusphere-2025-6314.
 
 Peer-reviewed scientific publications
 -------------------------------------
