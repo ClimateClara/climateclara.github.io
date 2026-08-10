@@ -112,6 +112,101 @@ Convener of short courses at the EGU General Assembly
 **Reviewer for**    
 The Cryosphere, JGR-Oceans, Journal of Climate, Science Advances, IPCC assessment reports, Geophysical Research Letters, ...
 
+
+SUPERVISION
+-----------
+
+- Ségolène Crossouard's postdoc within the ANR project [AIAI](https://anr-aiai.github.io/). **Since November 2025**. Co-supervision with Julie Deshayes and Cécile Agosta.
+- Helen Ockenden's postdoc within the ANR project [AIAI](https://anr-aiai.github.io/). **Since August 2024**. Co-supervision with Nicolas Jourdain.
+- Jacquemine Delfieu's master (césure) internship. Title: "Exploring the representation of Prydz Bay dense water in NEMO CMIP6 models". **February to July 2025**. Co-supervision with Katherine Hutchinson.
+- Georgia McQuade's master (M1) internship. Title: "Etude de l’influence de la résolution spatiale sur la simulation des cavités sous les plateformes de glace en Antarctique". **May to July 2024**.
+- Benjamin Bouissou's master (M2) internship. Title: "Parameterization of basal melting of an ice shelf with idealized geometry via a neural network". **February to June 2022**.
+
+
+CONFERENCES AND WORKSHOPS
+-------------------------
+
+### 2026
+
+- **Groupe de réflexion CNRS - Défis théoriques pour les sciences du climat**, Paris, France, May 2026 - _Invited Presentation_
+- **LOCEAN lab seminar**, LOCEAN-IPSL, Paris, France, May 2026
+
+### 2024
+
+- **Joint Committee on Ice Ocean Interactions Workshop**, online, October 2024 - _Keynote presentation_
+- **Southern Ocean Summer School**, Corsica, France, May 2024
+- **EGU 2024**, Vienna, Austria, April 2024 - _Highlight presentation_
+- **OCCD Colloquium**, GEOMAR, Kiel, Germany, January 2024 - _Invited Presentation_
+
+
+### 2023
+
+- **Forum for Research into Ice Shelf Processes 2023**, Stalheim, Norway, June 2023 - _Poster_
+- **EGU 2023**, Vienna, Austria, April 2023 - _Poster_
+- **GISS Sea Level Rise Seminar**, NASA GISS, online, February 2023 - _Invited presentation_
+- **Cryosphere BXL seminar**, VUB and ULB, Brussels, Belgium, February 2023 - _Invited presentation_
+- **IGS Global Seminar Series**, online, February 2023 - _Presentation_ ([link](https://www.youtube.com/watch?v=NhJyS0o9XdU&t=1910s))
+- **Polar Oceans Seminar**, British Antarctic Survey, Cambridge, UK, January 2023 - _Presentation_
+
+
+### 2022
+
+- **H2020 PROTECT Fall Meeting**, Grenoble, France, October 2022 - _Keynote presentation_
+- **Forum for Research into Ice Shelf Processes 2022**, Northumbria, UK, September 2022 - _Presentation_
+- **ECCOMAS 2022**, Oslo, Norway, June 2022 - _Session convener and Presentation_
+- **EGU 2022**, Vienna, Austria, May 2022 - _Presentation_
+- **Ocean Sciences Meeting 2022**, online, March 2022 - _virtual presentation_
+
+
+### 2021
+
+- **H2020 PROTECT Fall Meeting**, online, September 2021 - _virtual poster_
+- **H2020 PROTECT Spring Meeting**, online, May 2021 - _virtual poster_ 
+- **vEGU 2021**, online, April 2021 - _vPICO presentation_
+
+
+### 2020
+
+- **shareEGU 2020**, online, May 2020 - _PICO presentation (highlight) and convener of a webinar short course_ ([link](https://www.youtube.com/watch?v=Djd2XkYFLrA))
+
+
+### 2019
+
+- **GeoScience Communication School**, Trieste, Italy, September 2019
+- **IGS Symposium "Sea Ice at the Interface"**, Winnipeg, Canada, August 2019 - _Presentation_
+- **Snow Winter School**, Hailuoto, Finland, February 2019
+- **European Security Seminar - North**, George C. Marshall Center, Garmisch-Partenkirchen, February 2019 - _Invited Presentation_
+
+
+### 2018
+
+- **3 Cluster Conference**, Berlin, Germany, September 2018 - _Invited Presentation_
+- **POLAR2018**, Davos, Switzerland, June 2018 - _Presentation_
+- **Polar Prediction School**, Abisko, Sweden, April 2018
+- **Arctic System Change Workshop**, NCAR, Boulder, USA, April 2018- _Poster_
+- **Cryospheric and Polar Processes Seminar**, NSIDC, Boulder, USA, February 2018 - _Presentation_
+
+
+### 2017
+
+- **Workshop on improved satellite retrievals of sea-ice concentration and sea-ice thickness for climate applications**, Hamburg, Germany, October 2017 - _Invited Presentation_ 
+- **Max Planck Visions in Science Conference**, Berlin, Germany, September 2017 - _Organisation Team_ 
+- **Workshop on Multi-scale modelling of ice characteristics and behavior**, Cambridge, UK, September 2017 - _Poster_ 
+- **Summer School on Earth System Modelling**, Hamburg, Germany, September 2017 
+- **EGU 2017**, Vienna, Austria, April 2017 - _Poster and co-convener of two short courses_ 
+- **Polar Prediction Workshop & 2nd Sea Ice MIP Meeting**, Bremerhaven, Germany, March 2017 - _Presentation_
+
+
+### 2016
+
+- **NERC Advanced Training Course - Earth Observations for Weather and Climate Studies**, Reading, UK, September 2016 - _Poster_ 
+- **EGU 2016**, Vienna, Austria, April 2016 - _Poster_
+
+
+### 2014
+
+- **Arctic Climate Change, Economy and Society and Arctic Resilience Report Summer School**, Stockholm, Sweden, September 2014
+
 SKILLS
 ------
 
