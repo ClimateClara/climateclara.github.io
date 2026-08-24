@@ -103,7 +103,7 @@ Editor-in-Chief of the [EGU Cryosphere Blog](https://blogs.egu.eu/divisions/cr/)
 **October 2020 - September 2021**
 Early Career member of the [H2020 PROTECT](https://protect-slr.eu/) Steering Committee
 
-**2023**    
+**2023, 2024**    
 Convener of a scientific session at the EGU General Assembly
 
 **2017, 2018, 2020**    
@@ -128,6 +128,7 @@ CONFERENCES AND WORKSHOPS
 
 ### 2026
 
+- **SCAR Open Science Conference**, Oslo, Norway, August 2026 - _Plenary lecture_
 - **Groupe de réflexion CNRS - Défis théoriques pour les sciences du climat**, Paris, France, May 2026 - _Invited Presentation_
 - **LOCEAN lab seminar**, LOCEAN-IPSL, Paris, France, May 2026
 
