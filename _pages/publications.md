@@ -14,11 +14,12 @@ author_profile: true
 In review
 ---------
 
-- Ockenden, H., **Burgard, C.**, Mathiot, P., Kittel, C., Gellens, A., Agosta, C., Jourdain, N.C. **(accepted)**: "[DeepMelt-GL v1: A neural network emulator of ice-shelf melt rates for use in ocean models which partially resolve ice-shelf cavities](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6314/)", EGUsphere, doi: 10.5194/egusphere-2025-6314.
+A few things coming soon...
+
 
 Peer-reviewed scientific publications
 -------------------------------------
-
+- Ockenden, H., **Burgard, C.**, Mathiot, P., Kittel, C., Gellens, A., Agosta, C., Jourdain, N.C. **(2026)**: "[DeepMelt-GL v1: A neural network emulator of sub-shelf melt rates for the unrepresented regions of ice-shelf cavities in ocean models](https://doi.org/10.5194/gmd-19-7979-2026)", Geosci. Model Dev., 19, 7979-8002, doi: 10.5194/gmd-19-7979-2026.
 -  Vancoppenolle, M., Jourdain, N.C., Fichefet, T., Fraser, A.D., , Massonnet, F., Mathiot, P., Madec, G., Mehlmann, C., Olivé Abelló, A., Atwater, D.P., Billy, C., Brearley, A., Delfieu, J., Kostov,Y., Lemaire, E., Marson, J.M., Petit, J., Pirlet, N., Wongpan, P.,  **Burgard, C.**, de Lavergne, C., Holland, P.R., Hutchinson, K., Noël, M., Ortega, E., Piedagnel, E., Rampal, P., Ridley, J., Rousset, C., Sallée, J.-B., Thomas, M. (**2025**): "[Why Icebergs and their Interactions with Sea Ice Should Be Included in Earth System Models?](https://doi.org/10.1175/BAMS-D-25-0322.1)", BAMS, doi: 10.1175/BAMS-D-25-0322.1. 
 - Schmidt, G. A., Mankoff, K. D., Bamber, J. L., **Burgard, C.**, Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., Jourdain, N. C., Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T., and Ringeisen, D. (**2025**): "[Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations](https://doi.org/10.5194/gmd-18-8333-2025)", _Geosci. Model Dev._, 18, 8333–8361, doi: 10.5194/gmd-18-8333-2025. 
 - **Burgard C.**, Jourdain, N.C., Mosbeux, C., Caillet, J., Mathiot, P., and Kittel, C. (**2025**): "[Ocean warming threatens the viability of 60% of Antarctic ice shelves](https://doi.org/10.1038/s41586-025-09657-w)", _Nature_, doi: 10.1038/s41586-025-09657-w.
