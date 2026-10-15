@@ -116,6 +116,7 @@ The Cryosphere, JGR-Oceans, Journal of Climate, Science Advances, IPCC assessmen
 SUPERVISION
 -----------
 
+- Jonnie Barnsley's postdoc within the ISMIP7 project. **Since October 2026**. Co-supervision with Ronja Reese.
 - Ségolène Crossouard's postdoc within the ANR project [AIAI](https://anr-aiai.github.io/). **Since November 2025**. Co-supervision with Julie Deshayes and Cécile Agosta.
 - Helen Ockenden's postdoc within the ANR project [AIAI](https://anr-aiai.github.io/). **Since August 2024**. Co-supervision with Nicolas Jourdain.
 - Jacquemine Delfieu's master (césure) internship. Title: "Exploring the representation of Prydz Bay dense water in NEMO CMIP6 models". **February to July 2025**. Co-supervision with Katherine Hutchinson.
