@@ -14,6 +14,8 @@ author_profile: true
 Submitted and under review
 --------------------------
 
+- Gülk, B., de Lavergne, C., Sallée, J.-B., Madec, G., Rousset, C., Olivé Abelló, A., Coulon, V., **Burgard, C.** **(under review)**: "[Impacts of glacial meltwater on ocean continental shelf regimes around Antarctica](https://doi.org/10.22541/essoar.15011335/v1)", _ESSOAr_, doi: 10.22541/essoar.15011335/v1.
+
 - Reese, R., Jourdain, N.C., Asay-Davis, X.S., **Burgard, C.**, Lambert, E., Nakayama, Y., Holland, P.R., Naughten, K.A., Timmermann, R., Dutrieux, P., Zhou, S., Talebigheshlaghi, G., Tian, Y. **(under review)**: "[A protocol for calibrating basal melt rates in the ISMIP7 Antarctic ice sheet projections](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5337/)", _EGUsphere_, doi: 10.5194/egusphere-2026-5337.
 
 Peer-reviewed scientific publications
