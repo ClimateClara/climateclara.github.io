@@ -16,6 +16,9 @@ WORK & EDUCATION
 **Project scientist** in the [France 2030 PEPR Climat project (TRACCS)](https://pepr-traccs.fr/)   
 _Laboratoire d'Océanographie et du Climat (LOCEAN) - Institut Pierre Simon Laplace (IPSL) and CNRS, Paris, France_
 
+  - _September 2025 - January 2026_  
+  _Maternity leave_
+
 - **October 2023 - July 2024**   
 **Postdoctoral researcher** in the H2020 [SO-CHIC](https://www.sochic-h2020.eu/) and [OPTIMESM](https://optimesm-he.eu/) projects   
 _Laboratoire d'Océanographie et du Climat (LOCEAN) - Institut Pierre Simon Laplace (IPSL), Sorbonne Université and CNRS, Paris, France_
